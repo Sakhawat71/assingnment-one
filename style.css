@@ -1,0 +1,42 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    width: 100%;
+    
+}
+h1{
+    font-size: 60px;
+}
+#name{
+    color: tomato;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+
+section{
+    padding: 2% 5%;
+    padding-bottom: 100px;
+
+    
+}
+.part-one{
+    border-top: 10px;
+}
+#top-text{
+    text-align: right;
+}
