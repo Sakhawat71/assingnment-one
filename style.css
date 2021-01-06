@@ -7,16 +7,20 @@ body{
 h1{
     font-size: 60px;
 }
-#name{
+h2{
+    font-size: 40px;
+}
+span{
     color: tomato;
 }
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(45deg, lightsalmon, tomato);
-    padding: 10px 20px;
+    padding: 11px 40px;
     border-radius: 5px;
     color: white;
-    font-weight: 700;
+    
+    border-top: 20px;
 }
 .half-width{
     width: 40%;
@@ -31,6 +35,7 @@ h1{
 section{
     padding: 2% 5%;
     padding-bottom: 100px;
+    height: 400px;
 
     
 }
@@ -39,4 +44,7 @@ section{
 }
 #top-text{
     text-align: right;
+}
+.lastet{
+    text-align: top;
 }
