@@ -20,9 +20,13 @@ span{
     padding: 15px 45px;
     border-radius: 5px;
     color: white;
-    
     border-top: 20px;
 }
+.link{
+    text-decoration: none;
+    color: lightslategray;
+}
+
 .half-width{
     width: 40%;
     float: left;
@@ -127,4 +131,19 @@ image{
 .ball{
     margin: 0px 10px ;
     
+}
+#list ul li{
+    list-style: none;
+    text-align: right;
+    margin: 0px 10px 20px 10px;
+    float:right;
+    
+
+}
+#list{
+    margin-top:  0px;
+}
+.link1{
+    text-decoration: none;
+    color: black;
 }
