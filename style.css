@@ -17,7 +17,7 @@ span{
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(45deg, lightsalmon, tomato);
-    padding: 11px 40px;
+    padding: 15px 45px;
     border-radius: 5px;
     color: white;
     
@@ -40,9 +40,8 @@ section{
     padding: 2% 5%;
     padding-bottom: 100px;
     height: 400px;
-
-    
 }
+
 .part-one{
     border-top: 10px;
 }
@@ -78,4 +77,28 @@ image{
     width: 400px;
     height: 60px;
     padding: 80px 350px 60px 350px;
+}
+
+.background{
+    background-image: url(images/last.png);
+    background-size: 800px, 200px;
+    background-repeat: no-repeat;
+    background-position:top;
+    margin-top: 100px;
+    height: 300px;
+    padding-bottom: 0px;
+}
+
+
+
+#wi{
+    width: 400px;
+    margin-left: 300px;
+    color: rgb(255, 250, 250);
+    font: 700;
+}
+
+#lc{
+    margin-left: 800px;
+    margin-bottom: 500px;
 }
