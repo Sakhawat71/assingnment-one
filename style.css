@@ -102,8 +102,7 @@ image {
     background-position: top;
     margin-top: 100px;
     height: 200px;
-    padding-bottom: 0px;
-    border: 1px solid black;
+    padding-bottom: 0px; 
 }
 
 
